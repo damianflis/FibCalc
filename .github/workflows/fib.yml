@@ -61,5 +61,6 @@ jobs:
           file: ./Dockerfile
           push: true
           tags: ${{ steps.meta.outputs.tags }}
+          labels: ${{ steps.meta.outputs.labels }}
           cache-from: type=registry,ref=docker.io/damianflis1999/fibcalc:cache
           cache-to: type=registry,ref=docker.io/damianflis1999/fibcalc:cache,mode=max
