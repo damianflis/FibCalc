@@ -19,7 +19,7 @@ jobs:
         uses: docker/metadata-action@v4
         with:
           images: |
-            name/app
+            damianflis1999/FibCalc
           tags: |
             type=ref,event=branch
             type=ref,event=pr
