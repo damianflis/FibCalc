@@ -1,5 +1,6 @@
 name: GitHub Action for Zadanie 1
 on:
+  workflow_dispatch:
   push:
     branches: [ main ]
     tags: [ v* ]
