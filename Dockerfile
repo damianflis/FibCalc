@@ -2,6 +2,6 @@
 
 WORKDIR /FibCalc
 
-COPY bin/Release/net6.0/publish .
+COPY FibCalc/bin/Release/net6.0/publish .
 
 ENTRYPOINT ["dotnet","FibCalc.dll"]
