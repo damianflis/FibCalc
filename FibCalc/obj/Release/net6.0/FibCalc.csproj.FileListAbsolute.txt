@@ -1,0 +1,15 @@
+F:\Studia\PFSwChO\Zadanie 1\FibCalc\FibCalc\bin\Release\net6.0\FibCalc.exe
+F:\Studia\PFSwChO\Zadanie 1\FibCalc\FibCalc\bin\Release\net6.0\FibCalc.deps.json
+F:\Studia\PFSwChO\Zadanie 1\FibCalc\FibCalc\bin\Release\net6.0\FibCalc.runtimeconfig.json
+F:\Studia\PFSwChO\Zadanie 1\FibCalc\FibCalc\bin\Release\net6.0\FibCalc.dll
+F:\Studia\PFSwChO\Zadanie 1\FibCalc\FibCalc\bin\Release\net6.0\FibCalc.pdb
+F:\Studia\PFSwChO\Zadanie 1\FibCalc\FibCalc\obj\Release\net6.0\FibCalc.csproj.AssemblyReference.cache
+F:\Studia\PFSwChO\Zadanie 1\FibCalc\FibCalc\obj\Release\net6.0\FibCalc.GeneratedMSBuildEditorConfig.editorconfig
+F:\Studia\PFSwChO\Zadanie 1\FibCalc\FibCalc\obj\Release\net6.0\FibCalc.AssemblyInfoInputs.cache
+F:\Studia\PFSwChO\Zadanie 1\FibCalc\FibCalc\obj\Release\net6.0\FibCalc.AssemblyInfo.cs
+F:\Studia\PFSwChO\Zadanie 1\FibCalc\FibCalc\obj\Release\net6.0\FibCalc.csproj.CoreCompileInputs.cache
+F:\Studia\PFSwChO\Zadanie 1\FibCalc\FibCalc\obj\Release\net6.0\FibCalc.dll
+F:\Studia\PFSwChO\Zadanie 1\FibCalc\FibCalc\obj\Release\net6.0\refint\FibCalc.dll
+F:\Studia\PFSwChO\Zadanie 1\FibCalc\FibCalc\obj\Release\net6.0\FibCalc.pdb
+F:\Studia\PFSwChO\Zadanie 1\FibCalc\FibCalc\obj\Release\net6.0\FibCalc.genruntimeconfig.cache
+F:\Studia\PFSwChO\Zadanie 1\FibCalc\FibCalc\obj\Release\net6.0\ref\FibCalc.dll

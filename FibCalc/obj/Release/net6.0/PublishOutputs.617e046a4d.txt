@@ -1,0 +1,5 @@
+F:\Studia\PFSwChO\Zadanie 1\FibCalc\FibCalc\bin\Release\net6.0\publish\FibCalc.exe
+F:\Studia\PFSwChO\Zadanie 1\FibCalc\FibCalc\bin\Release\net6.0\publish\FibCalc.dll
+F:\Studia\PFSwChO\Zadanie 1\FibCalc\FibCalc\bin\Release\net6.0\publish\FibCalc.deps.json
+F:\Studia\PFSwChO\Zadanie 1\FibCalc\FibCalc\bin\Release\net6.0\publish\FibCalc.runtimeconfig.json
+F:\Studia\PFSwChO\Zadanie 1\FibCalc\FibCalc\bin\Release\net6.0\publish\FibCalc.pdb
